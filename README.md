@@ -1,0 +1,1 @@
+# Practic_Django_19.2
